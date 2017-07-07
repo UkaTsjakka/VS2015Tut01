@@ -10,7 +10,7 @@ namespace Consol001
     {
         static void Main(string[] args)
         {
-            String tstr = "Karel";
+            String tstr = "Karel de grote";
         }
     }
 }
